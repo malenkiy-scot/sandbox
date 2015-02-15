@@ -2,6 +2,13 @@
 bgnet/
 cloud/
 mongodata/
+fattail/
+gamma/
+interview/
+narayana/
+play/
+points/
+pyregexp/
 
 # General ignore
 *.pyc
@@ -26,14 +33,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Particular files and directories
-fattail
-gamma
-interview
-narayana
-play
-points
-pyregexp
 
 # =========================
 # Operating System Files
