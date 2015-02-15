@@ -26,6 +26,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Particular files and directories
+fattail
+gamma
+interview
+narayana
+play
+points
+pyregexp
+
 # =========================
 # Operating System Files
 # =========================
